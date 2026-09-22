@@ -5,8 +5,7 @@
 - javascript
 - python
   - React
-- zig
-  
+- zig  
 1.close the door
 2. open window
 3. Go to work
